@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879105324382",
+    "firebase_url": "https://felicity-5f6f0.firebaseio.com",
+    "project_id": "felicity-5f6f0",
+    "storage_bucket": "felicity-5f6f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879105324382:android:c66488652d325d78c4cbcf",
+        "android_client_info": {
+          "package_name": "com.felicity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879105324382-dic41gs71gsm41cic8todmckf53a0ree.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.felicity",
+            "certificate_hash": "7a1fb36ead581426be20bbc103f376300f134e81"
+          }
+        },
+        {
+          "client_id": "879105324382-muvsvunav1vj9aa892g9264q5l4kj12m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3NmJ26je1CHYLuXM_AsTNwXdf6K9bDI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879105324382-muvsvunav1vj9aa892g9264q5l4kj12m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
